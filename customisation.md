@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-Ci-joint quelques customisations pour personnaliser Burp, via les fichiers "user" et "projet". L'objectif est de restreindre certains actions automatiques de BURP induites par une configuration par défaut.
+Ci-joint quelques customisations pour personnaliser BURP, via les fichiers "user" et "projet". L'objectif est de restreindre certains actions automatiques de BURP induites par une configuration par défaut.
 
 ## Sommaire
 
