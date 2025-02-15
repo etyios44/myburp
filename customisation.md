@@ -23,9 +23,9 @@ Default Proxy interception state : off
 
 ## Exclusions Proxy
 
-cf. https://gist.githubusercontent.com/fyxme/8e8677194313593a230e42f16428cd26/raw/ac36c89122f66b109e9ddf00b1993b6805d2cd5a/burp-target-scope-options.json
-cf. https://github.com/SeanWrightSec/proxy-bypass-list/blob/master/foxyproxy-patterns.json
-cf. https://gist.github.com/todmephis/d25ee066574545f32bd6ebb70a9228f5
+- cf. https://gist.githubusercontent.com/fyxme/8e8677194313593a230e42f16428cd26/raw/ac36c89122f66b109e9ddf00b1993b6805d2cd5a/burp-target-scope-options.json
+- cf. https://github.com/SeanWrightSec/proxy-bypass-list/blob/master/foxyproxy-patterns.json
+- cf. https://gist.github.com/todmephis/d25ee066574545f32bd6ebb70a9228f5
 
 BURP > Settings > Project > Scope
 
