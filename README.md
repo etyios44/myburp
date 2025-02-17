@@ -38,7 +38,6 @@ Exclude from scope :
 - *.microsoft.*
 - *.windows.*
 ...
-'''
 
 ## Sauvegardes Automatiques 
 
