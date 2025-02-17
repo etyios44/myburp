@@ -18,8 +18,8 @@ Ci-joint quelques customisations pour personnaliser BURP, via les fichiers "user
 
 BURP > Tools > Proxy
 
-Response interception rules : on
-Default Proxy interception state : off
+- Response interception rules : on
+- Default Proxy interception state : off
 
 ## Exclusions Proxy
 
@@ -30,6 +30,7 @@ Default Proxy interception state : off
 BURP > Settings > Project > Scope
 
 Exclude from scope : 
+´´´sh
 https://portswigger.net
 *.oastify.com
 *.mozilla.*
@@ -37,44 +38,45 @@ https://portswigger.net
 *.microsoft.*
 *.windows.*
 ...
+´´´
 
 ## Sauvegardes Automatiques 
 
 BURP > Settings > Projet > Automatic backup
 
-Automatically back up the project every : 60 minutes
-Show progress dialog during backups : off
+- Automatically back up the project every : 60 minutes
+- Show progress dialog during backups : off
 
 ## Exclude Colaborator
 
 BURP > Settings > Project > Collaborator
 
-Burp Collaborator server : off
+- Burp Collaborator server : off
 
 ## Updates
 
 BURP > Settings > Suite > Updates
 
-Updates : off
-Performance feedback : off
+- Updates : off
+- Performance feedback : off
 
 BURP > Settings > Suite > Startup behavior
 
-Automatated tasks on startup : on
-Maximum Java memory usage : system
+- Automatated tasks on startup : on
+- Maximum Java memory usage : system
 
 ## Reload extensions
 
 BURP > Settings > Extensions > Startup behavior
 
-Automatically reload extensions on startup : off
-Automatically reload installed BApps on startup : off
+- Automatically reload extensions on startup : off
+- Automatically reload installed BApps on startup : off
 
 ## Disabled extensions
 
 BURP > Startup
 
-Disable extensions : off
+- Disable extensions : off
 
 # Fichiers de configuration
 
