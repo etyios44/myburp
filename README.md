@@ -30,13 +30,13 @@ BURP > Tools > Proxy
 BURP > Settings > Project > Scope
 
 Exclude from scope : 
-'''sh
-https://portswigger.net
-*.oastify.com
-*.mozilla.*
-*.firefox.*
-*.microsoft.*
-*.windows.*
+
+- https://portswigger.net
+- *.oastify.com
+- *.mozilla.*
+- *.firefox.*
+- *.microsoft.*
+- *.windows.*
 ...
 '''
 
