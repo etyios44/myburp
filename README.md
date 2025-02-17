@@ -30,7 +30,7 @@ BURP > Tools > Proxy
 BURP > Settings > Project > Scope
 
 Exclude from scope : 
-´´´sh
+'''sh
 https://portswigger.net
 *.oastify.com
 *.mozilla.*
@@ -38,7 +38,7 @@ https://portswigger.net
 *.microsoft.*
 *.windows.*
 ...
-´´´
+'''
 
 ## Sauvegardes Automatiques 
 
